@@ -1,0 +1,19 @@
+.info {
+    padding: 80px 0 70px;
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    // .info__title
+
+    &__title {
+        font-weight: 300;
+        margin-bottom: 23px;
+    }
+
+    // .info__description
+
+    &__description {
+        font-size: 21px;
+        font-weight: 300;
+    }
+}
